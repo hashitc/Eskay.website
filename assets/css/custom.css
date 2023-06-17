@@ -11,12 +11,12 @@
   }
   
   a {
-	color: #104CBA;
+	color: #b9600d;
 	text-decoration: none;
   }
   
   a:hover {
-	color: #104CBA;
+	color: #b9600d;
 	text-decoration: none;
   }
   
@@ -149,7 +149,7 @@
   
 
 .banner-section .banner-text .banner-btn {
-    background-color: #104CBA ;
+    background-color: #b9600d ;
 	letter-spacing: 0.1em;
 	font-weight: bold;
     line-height: 60px;
@@ -261,7 +261,7 @@ min-height: auto !important;
     top: 50%;
     margin-top: -20px;
     color: #ffffff;
-    background-color: #104CBA;
+    background-color: #b9600d;
 }
 .testimonial-section .video-wrap {
     height: 80%;
@@ -283,7 +283,7 @@ header .nav .main-mneu ul li a {
 }
 
 .section-title small {
-    color: #104CBA;
+    color: #b9600d;
     font-size: 24px;
     letter-spacing: 0.1em;
     font-weight: bold;
@@ -300,14 +300,14 @@ header .nav .main-mneu ul li a {
     margin-bottom: 20px;
 }
 .section-title h2.blue {
-    color: #104CBA;
+    color: #b9600d;
     font-size: 24px;
     margin-bottom: 10px;
     padding-right: 0;
 }
 
  .custom-btn-blue {
-    background-color: #104CBA ;
+    background-color: #b9600d ;
 	letter-spacing: 0.1em;
 	font-weight: bold;
     line-height: 60px;
@@ -325,7 +325,7 @@ header .nav .main-mneu ul li a {
     line-height: 60px;
     font-family: "Nunito", sans-serif;
     border-radius: 3px;
-    color: #104CBA;
+    color: #b9600d;
     padding: 0 45px; 
     text-transform: uppercase;
 }
@@ -443,7 +443,7 @@ display: block;
   }
   
   .box-blue {
-    background-color: #0942AB;
+    background-color: #e4b653;
     width: 25%;
     padding: 110px 0 100px 0;
   }
@@ -520,22 +520,22 @@ display: block;
     border-radius: 5px;
   }
   
-  .lifeHashItc {
+  .lifeESKAY {
     position: absolute;
     width: 100%;
     height: 100%;
     padding: 60px 20px 50px 20px;
-    background-color: #0942AB;
+    background-color: #e4b653;
   }
   
-  .lifeHashItc h2 {
+  .lifeESKAY h2 {
     color: #fff;
     font-size: 40px;
     font-weight: 600;
     letter-spacing: normal;
     margin-bottom: 20px;
   }
-  .lifeHashItc p {
+  .lifeESKAY p {
     font-size: 16px;
     color: #fff;
     letter-spacing: 0.1em;
@@ -574,7 +574,7 @@ display: block;
     font-family: "Nunito", sans-serif ;
 }
 
-.lifeHashItcRight p {
+.lifeESKAYRight p {
     font-size: 18px;
     color: #fff;
     letter-spacing: 0.1em;
@@ -582,7 +582,7 @@ display: block;
     padding: 0 100px 0 14px;
 }
 
-.lifeHashItcRight {
+.lifeESKAYRight {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -643,7 +643,7 @@ display: block;
     }
     
     .service-box:hover {
-        background-color: #104CBA;
+        background-color: #b9600d;
     } 
 
     .service-box:hover h4, .service-box:hover p {
@@ -652,7 +652,7 @@ display: block;
 
     .service-box:hover .icon {
         background-color: #ffffff;
-        color: #104CBA;
+        color: #b9600d;
     }
     .service-box:hover .icon::after {
         border: 1px solid #ffffff;
@@ -661,7 +661,7 @@ display: block;
       margin-bottom: 0;
   }
   .portfolio-menu ul li {
-    border: 1px solid #104CBA;
+    border: 1px solid #b9600d;
 }
 .team-box:hover .team-img img {
     transform: initial;
@@ -696,7 +696,7 @@ textarea#message.effect-2 ~ .focus-border {
   left: 50%;
   width: 0;
   height: 1px;
-  background-color: #104CBA;
+  background-color: #b9600d;
   transition: 0.4s;
 }
 
@@ -742,7 +742,7 @@ textarea {
     content: "";
     -webkit-appearance: none;
     background-color: transparent;
-    border: 1px solid #104CBA;
+    border: 1px solid #b9600d;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05),
       inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
     padding: 10px;
@@ -761,7 +761,7 @@ textarea {
     left: 9px;
     width: 6px;
     height: 14px;
-    border: solid #104CBA;
+    border: solid #b9600d;
     border-width: 0 2px 2px 0;
     transform: rotate(45deg);
   }
@@ -860,7 +860,7 @@ footer .widget.contact-widget {
   font-size: 22px;
 }
 .contact-list li i {
-  color: #104CBA;
+  color: #b9600d;
   margin-right: 0;
   display: block;
   margin-bottom: 20px;
@@ -911,14 +911,14 @@ footer .widget.contact-widget {
 
 
 @media only screen and (max-width: 1699px) {
-  .lifeHashItc {
+  .lifeESKAY {
     padding: 40px 20px 40px 20px;
 }
 
 }
 
 @media only screen and (max-width: 1599px) {
-  .lifeHashItc {
+  .lifeESKAY {
     padding: 40px 20px 40px 20px;
 }
 .bringDetails span {
@@ -963,7 +963,7 @@ footer .widget.contact-widget {
         font-size: 12px;
         font-family: "Nunito", sans-serif;
     }
-    .lifeHashItc {
+    .lifeESKAY {
         padding: 60px 14px 50px 14px;
     }
     /* .about-section .about-text .about-list li {
@@ -1205,7 +1205,7 @@ header .nav {
 .box-blue {
   padding: 30px 0 350px 0;
 }
-.lifeHashItc {
+.lifeESKAY {
   top: -360px;
   background-color: transparent;
   padding: 20px 14px 20px 14px;

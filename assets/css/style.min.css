@@ -150,7 +150,7 @@ a {
 
 a,
 a:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 .bg-cover {
@@ -175,7 +175,7 @@ input[type='submit'] {
     padding: 0 35px;
     font-weight: 600;
     color: #fff;
-    background-color: #104CBA;
+    background-color: #b9600d;
     -webkit-transition: all .3s ease-out 0s;
     transition: all .3s ease-out 0s;
     border: none;
@@ -284,7 +284,7 @@ textarea {
 
 .section-title p.title-tag {
     font-size: 20px;
-    color: #104CBA;
+    color: #b9600d;
     font-weight: 600;
     line-height: 1.2;
     position: relative;
@@ -310,7 +310,7 @@ textarea {
     bottom: 0;
     width: 100%;
     height: 1px;
-    background-color: #104CBA;
+    background-color: #b9600d;
     content: '';
     z-index: 2
 }
@@ -602,7 +602,7 @@ header .nav .main-mneu ul li a {
 }
 
 header .nav .main-mneu ul li a:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -616,7 +616,7 @@ header .nav .main-mneu ul li a i {
 }
 
 header .nav .main-mneu ul li.active a {
-    color: #104CBA
+    color: #b9600d
 }
 
 header .nav .main-mneu ul li ul.submenu {
@@ -647,7 +647,7 @@ header .nav .main-mneu ul li ul.submenu li a {
 }
 
 header .nav .main-mneu ul li ul.submenu li a:hover {
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff
 }
 
@@ -788,7 +788,7 @@ header .header-right .search-form form button {
     width: 50px;
     bottom: 3px;
     border: none;
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff;
     z-index: 2
 }
@@ -977,13 +977,13 @@ header.sticky {
 }
 
 .off-canvas-wrap .off-canvas-widget .widget.social-widget ul li a:hover {
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff;
-    border-color: #104CBA
+    border-color: #b9600d
 }
 
 .banner-section {
-    background-color: #edf1fa;
+    background-color: #f7c9a8;
     height: 1024px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1267,7 +1267,7 @@ header.sticky {
     width: 86px;
     height: 86px;
     border-radius: 50%;
-    background-color: #104CBA;
+    background-color: #b9600d;
     margin-bottom: 40px;
     color: #fff;
     position: relative;
@@ -1292,7 +1292,7 @@ header.sticky {
     height: 100%;
     background: transparent;
     content: '';
-    border: 1px solid #104CBA;
+    border: 1px solid #b9600d;
     border-radius: 50%;
     opacity: 0.8
 }
@@ -1418,7 +1418,7 @@ header.sticky {
     width: 86px;
     height: 86px;
     border-radius: 50%;
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff;
     position: relative;
     margin-left: 5px;
@@ -1455,7 +1455,7 @@ header.sticky {
     height: 100%;
     background: transparent;
     content: '';
-    border: 1px solid #104CBA;
+    border: 1px solid #b9600d;
     border-radius: 50%;
     opacity: 0.8
 }
@@ -1508,7 +1508,7 @@ header.sticky {
     display: inline-block;
     cursor: pointer;
     line-height: 40px;
-    color: #104CBA;
+    color: #b9600d;
     border: 1px solid #dcdfe2;
     border-radius: 30px;
     font-size: 15px;
@@ -1551,9 +1551,9 @@ header.sticky {
 }
 
 .portfolio-menu ul li.active {
-    background: #104CBA;
+    background: #b9600d;
     color: #fff;
-    border-color: #104CBA
+    border-color: #b9600d
 }
 
 .portfolio-boxes .row {
@@ -1661,7 +1661,7 @@ header.sticky {
     width: 86px;
     height: 86px;
     border-radius: 50%;
-    background-color: #104CBA;
+    background-color: #b9600d;
     margin-bottom: 40px;
     color: #fff;
     position: relative;
@@ -1686,7 +1686,7 @@ header.sticky {
     height: 100%;
     background: transparent;
     content: '';
-    border: 1px solid #104CBA;
+    border: 1px solid #b9600d;
     border-radius: 50%;
     opacity: 0.8
 }
@@ -1748,7 +1748,7 @@ header.sticky {
     height: 100%;
     border-bottom-right-radius: 30px;
     z-index: 2;
-    background-color: #104CBA;
+    background-color: #b9600d;
     opacity: 0.4
 }
 
@@ -1806,7 +1806,7 @@ header.sticky {
     line-height: 1.2;
     -webkit-transform: matrix(0, -1, 1, 0, 0, 0) translateX(50%);
     transform: matrix(0, -1, 1, 0, 0, 0) translateX(50%);
-    -webkit-text-stroke: 1px #104CBA;
+    -webkit-text-stroke: 1px #b9600d;
     -webkit-text-fill-color: transparent
 }
 
@@ -2010,7 +2010,7 @@ header.sticky {
     left: calc(50% + 55px);
     border-top-left-radius: 0;
     border-top-right-radius: 10px;
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff
 }
 
@@ -2021,7 +2021,7 @@ header.sticky {
 }
 
 .testimonial-section .testimonial-slider span.slick-arrow:hover {
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff
 }
 
@@ -2121,7 +2121,7 @@ header.sticky {
 }
 
 .latest-posts .post-box .post-content a.post-link:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 .latest-posts .post-box .post-content a.post-link i {
@@ -2326,7 +2326,7 @@ footer .widget.contact-widget .social-icons li {
 }
 
 footer .widget.contact-widget .social-icons li a:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 footer .widget.nav-widget {
@@ -2388,7 +2388,7 @@ footer .widget.newsletter-widget form input {
 footer .widget.newsletter-widget form button {
     font-size: 16px;
     color: #fff;
-    background-color: #104CBA;
+    background-color: #b9600d;
     width: 60px;
     border: none;
     position: absolute;
@@ -2450,7 +2450,7 @@ footer .copyright-area {
 }
 
 footer .copyright-area .copyright-text a {
-    color: #104CBA
+    color: #b9600d
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2496,7 +2496,7 @@ footer .copyright-area .footer-nav ul li {
     top: 0;
     right: 24px;
     color: #ffffff;
-    background-color: #104CBA;
+    background-color: #b9600d;
     z-index: 9999;
     width: 40px;
     text-align: center;
@@ -2536,7 +2536,7 @@ footer .copyright-area .footer-nav ul li {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-color: #104CBA;
+    background-color: #b9600d;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all .5s ease-out 0s;
@@ -2603,7 +2603,7 @@ footer .copyright-area .footer-nav ul li {
     color: #fff;
     top: 3px;
     z-index: 1;
-    background: #104CBA
+    background: #b9600d
 }
 
 .go-top-wrap .go-top-btn i {
@@ -2624,7 +2624,7 @@ footer .copyright-area .footer-nav ul li {
     -webkit-animation: ripple 1.6s ease-out infinite;
     animation: ripple 1.6s ease-out infinite;
     opacity: 0;
-    background: #104CBA
+    background: #b9600d
 }
 
 .go-top-wrap .go-top-btn:hover {
@@ -2758,7 +2758,7 @@ footer .copyright-area .footer-nav ul li {
     padding: 0 45px;
     font-weight: 600;
     color: #fff;
-    background-color: #104CBA;
+    background-color: #b9600d;
     line-height: 60px;
     text-transform: uppercase;
     margin-top: 40px
@@ -2952,7 +2952,7 @@ footer .copyright-area .footer-nav ul li {
 }
 
 .blog-details .blog-details-footer .social-share li a:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 .blog-details .blog-details-footer .post-nav {
@@ -3115,7 +3115,7 @@ footer .copyright-area .footer-nav ul li {
 }
 
 .blog-details .about-author .author-desc .social-link li a:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 .blog-details .comments-template .comments-list {
@@ -3182,7 +3182,7 @@ footer .copyright-area .footer-nav ul li {
 .blog-details .comments-template .comments-list ul li .comment-desc h5 .comment-time {
     margin-left: 40px;
     font-size: 16px;
-    color: #104CBA;
+    color: #b9600d;
     font-weight: 400
 }
 
@@ -3208,7 +3208,7 @@ footer .copyright-area .footer-nav ul li {
 }
 
 .blog-details .comments-template .comments-list ul li .comment-desc .reply-btn:hover {
-    color: #104CBA
+    color: #b9600d
 }
 
 .blog-details .comments-template .comments-form {
@@ -3337,7 +3337,7 @@ footer .copyright-area .footer-nav ul li {
 }
 
 .blog-sidebar .widget.categorie-widget ul li:hover a {
-    color: #104CBA;
+    color: #b9600d;
     padding-left: 5px
 }
 
@@ -3362,7 +3362,7 @@ footer .copyright-area .footer-nav ul li {
 }
 
 .blog-sidebar .widget.tag-widget ul li a:hover {
-    border-color: #104CBA
+    border-color: #b9600d
 }
 
 .blog-sidebar .widget.newsletter-widget input {
@@ -3372,7 +3372,7 @@ footer .copyright-area .footer-nav ul li {
 
 .blog-sidebar .widget.newsletter-widget input[type='submit'] {
     margin-top: 20px;
-    background-color: #104CBA
+    background-color: #b9600d
 }
 
 .blog-sidebar .widget.newsletter-widget input[type='submit']:hover {
@@ -3422,9 +3422,9 @@ footer .copyright-area .footer-nav ul li {
 .pagination-wrap ul li a:hover {
     -webkit-box-shadow: 0px 10px 49.5px 0.5px #ec0015c7;
     box-shadow: 0px 10px 49.5px 0.5px #ec0015c7;
-    background-color: #104CBA;
+    background-color: #b9600d;
     color: #fff;
-    border-color: #104CBA
+    border-color: #b9600d
 }
 
 
