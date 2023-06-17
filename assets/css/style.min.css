@@ -1040,25 +1040,25 @@ header.sticky {
     position: relative
 }
 
-.banner-section .banner-text::before {
+/* .banner-section .banner-text::before {
     position: absolute;
     right: 125px;
     top: -90px;
     content: url(../img/shape/04.png)
-}
+} */
 
 @media (max-width: 399px) {
-    .banner-section .banner-text::before {
+    /* .banner-section .banner-text::before {
         right: 50px
-    }
+    } */
 }
 
-.banner-section .banner-text::after {
+/* .banner-section .banner-text::after {
     position: absolute;
     left: 50%;
     bottom: -75px;
     content: url(../img/shape/02.png)
-}
+} */
 
 @media (max-width: 767px) {
     .banner-section .banner-text {
@@ -1230,12 +1230,12 @@ header.sticky {
     background-color: #000000
 }
 
-.banner-section::after {
+/* .banner-section::after {
     position: absolute;
     right: calc(46% - 30px);
     bottom: 190px;
     content: url(../img/shape/03.png)
-}
+} */
 
 @media (max-width: 767px) {
     .banner-section::after {

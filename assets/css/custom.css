@@ -187,13 +187,12 @@ header .nav .main-mneu ul li a {
     font-weight: 500;
     padding: 0 100px 0 0;
 }
-.banner-section .banner-text::before {
+/* .banner-section .banner-text::before {
     position: absolute;
     left: 0;
     top: -60px;
     content: url(../img/shape/01.png);
-	
-}
+} */
 .banner-section .banner-text .banner-promo::before {
 	display: none;
 }
